@@ -1,0 +1,9 @@
+robot:
+  qq: 132
+  password: 132
+
+  serverList:
+    - msgKey: 1
+      address: 127.0.0.1:2302
+    - msgKey: 2
+      address: 127.0.0.1:2402
